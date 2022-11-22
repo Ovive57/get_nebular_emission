@@ -2,6 +2,9 @@
 
 .. inclusion-marker-do-not-remove
 
+
+This code is my little contribution to the code that you can find in https://github.com/galform/get_nebular_emission. It is not finished here.
+
 TO DO
 -----
 [] Calculate Bulge and Disk separately and then add the fluxes from the 2 contributions.
